@@ -7,7 +7,7 @@
 #
 Name     : qt63d
 Version  : 6.6.1
-Release  : 5
+Release  : 6
 URL      : https://download.qt.io/official_releases/qt/6.6/6.6.1/submodules/qt3d-everywhere-src-6.6.1.tar.xz
 Source0  : https://download.qt.io/official_releases/qt/6.6/6.6.1/submodules/qt3d-everywhere-src-6.6.1.tar.xz
 Summary  : Import various well-known 3D model formats in an uniform manner.
