@@ -4,6 +4,9 @@ libQt6Core.so.6
 libQt6Gui.so.6
 libQt6Network.so.6
 libQt6OpenGL.so.6
+libQt6Qml.so.6
+libQt6QmlModels.so.6
+libQt6Quick.so.6
 libQt6ShaderTools.so.6
 libassimp.so.5
 libc.so.6
