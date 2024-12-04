@@ -7,7 +7,7 @@
 #
 Name     : qt63d
 Version  : 6.8.0
-Release  : 25
+Release  : 26
 URL      : https://download.qt.io/official_releases/qt/6.8/6.8.0/submodules/qt3d-everywhere-src-6.8.0.zip
 Source0  : https://download.qt.io/official_releases/qt/6.8/6.8.0/submodules/qt3d-everywhere-src-6.8.0.zip
 Summary  : GoogleMock (without main() function)
